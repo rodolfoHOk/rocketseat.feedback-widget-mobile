@@ -63,6 +63,24 @@
 
         expo install expo-file-system
 
+## 🖼️ Imagens do projeto 👀
+
+Feedback Widget Mobile Fechado:
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/rocketseat-feedback-widget-11.png" alt="NLW Return Img11" width="150"/>
+
+Feedback Widget Mobile Opções:
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/rocketseat-feedback-widget-12.png" alt="NLW Return Img12" width="150"/>
+
+Feedback Widget Mobile Formulário:
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/rocketseat-feedback-widget-13.png" alt="NLW Return Img13" width="150"/>
+
+Feedback Widget Mobile Enviado:
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/rocketseat-feedback-widget-14.png" alt="NLW Return Img14" width="150"/>
+
 ## 🔗 Links úteis ✨
 
 - [Expo](https://docs.expo.dev/) : Crie aplicativos incríveis que rodam em qualquer lugar
