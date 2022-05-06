@@ -7,8 +7,7 @@
 - Javascript / Typescript : Linguagem programação
 - React Native : Biblioteca criação de interfaces mobile
 - Expo : Ferramenta de desenvolvimento mobile com React Native
-
-## ➕ O que fiz além ✨
+- axios : Cliente HTTP baseado em promessa para o navegador e node.js
 
 ## 🗃️ Guia 📚
 
@@ -26,11 +25,11 @@
           d
           instalar o expo go no smartphone e escanear o QR code
 
-- Instalando a font inter no Expo
+- Instalando a font do google fonts inter no Expo
 
         expo install expo-font @expo-google-fonts/inter
 
-- Instalando o Expo app loading
+- Instalando o expo-app-loading
 
         expo install expo-app-loading
 
@@ -52,15 +51,21 @@
         no arquivo babel.config.js adicionar no return:
           plugins: ['react-native-reanimated/plugin'],
 
-- ### break: 1:02:00 https://nextlevelweek.com/episodios/impulse/aula-4/edicao/8
+- Instalando o react-native-view-shot para tirar screenshot
 
-## 🖼️ Imagens do projeto 👀
+        expo install react-native-view-shot
 
-Feedback Widget Mobile:
+- Instalando o axios para requisições http
 
-<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/rocketseat-feedback-widget-01.png" alt="NLW Return Img1" width="450"/>
+        yarn add axios
+
+- Instalando o expo-file-system
+
+        expo install expo-file-system
 
 ## 🔗 Links úteis ✨
+
+- [Expo](https://docs.expo.dev/) : Crie aplicativos incríveis que rodam em qualquer lugar
 
 - [Phosphor Icons](https://phosphoricons.com/) | [Phosphor Icons Github](https://github.com/phosphor-icons/phosphor-home) : Família de ícones flexível para interfaces, diagramas, apresentações — o que for, na verdade.
 
